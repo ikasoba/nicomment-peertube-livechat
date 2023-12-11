@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "@types/encoding-japanese": "^2.0.5",
+    "@types/xmpp__client": "^0.13.3",
+    "@types/xmpp__sasl-anonymous": "^0.13.3",
+    "@xmpp/client": "^0.13.1",
+    "@xmpp/sasl-anonymous": "^0.13.1",
+    "encoding-japanese": "^2.0.0",
+    "ts-node": "^10.9.2"
+  }
+}

@@ -1,6 +1,6 @@
 # nicomment-peertube-livechat
 
-peertubeのlivechatをnicommentへ流すやつ
+peertubeのlivechatを[nicomment](https://github.com/ikasoba/nicomment)へ流すやつ
 
 # 設定
 
